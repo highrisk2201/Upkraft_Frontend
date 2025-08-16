@@ -5,7 +5,7 @@ import ProfileCard from './components/ProfileCard';
 import StatsCard from './components/StatsCard';
 import UpcomingLessons from './components/UpcomingLessons';
 import CircularProgress from './components/CircularProgress';
-import ReferAndEarn from './components/ReferAndEarn';
+import ReferAndEarn from './components/ReferandEarn';
 import Feedback from './components/Feedback';
 // import { stats } from './data/stats'; // Assuming you have a stats data file
 
